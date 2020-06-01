@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical structure App</string>
+
+    <!-- Category name for the SONGS [CHAR LIMIT=20] -->
+    <string name="category_songs">Songs</string>
+
+</resources>

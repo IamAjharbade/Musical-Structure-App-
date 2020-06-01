@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#847DFF</color>
+    <color name="colorPrimaryDark">#07026B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="background">#DFDFFA</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_songs">#847DFF</color>
+</resources>
