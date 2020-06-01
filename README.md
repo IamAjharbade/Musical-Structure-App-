@@ -34,4 +34,11 @@ The app contains 3 activities.
   - MainActivity
   - SongsActivity
   - NowPlaying
+  
 This app only shows the structure of the app and how the app transit from one Activity to another Activity. (eg: From MainActivity to NowPlayingActivity etc...)
+# Screenshot
+ ![Screenshot_2020-06-01-18-37-14-002_com example musicalstructureappproject](https://user-images.githubusercontent.com/65824232/83412314-7ddccb80-a437-11ea-8c44-c0585fcc48ee.jpg)
+ 
+ ![Screenshot_2020-06-01-18-37-22-873_com example musicalstructureappproject](https://user-images.githubusercontent.com/65824232/83412364-93ea8c00-a437-11ea-934f-75b00095d361.jpg)
+ 
+ ![Screenshot_2020-06-01-18-37-32-559_com example musicalstructureappproject](https://user-images.githubusercontent.com/65824232/83412414-a8c71f80-a437-11ea-801d-efd23794271d.jpg)
